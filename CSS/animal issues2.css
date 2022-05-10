@@ -1,0 +1,46 @@
+h1{color: darkslategray;text-decoration: underline; }
+h2{color: dimgray;}
+pre{color: darkgray;font-size: 25px;}
+
+body{background-color: lightgray;font-size: 25px;}
+
+header{
+    background-color:black;
+    width: 100%;
+    position:fixed;
+    z-index: 10000;
+    display: flex;
+    display: ;
+    justify-content:space-between;
+    align-items: center;
+    padding:  20px 170px;
+    position: relative;
+}
+
+.navigation a:hover{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    text-decoration: none;
+    color: wheat;
+    text-transform: uppercase;
+    font-weight: 850;
+    font-size: 2.0em;
+}
+.navigation a{
+    color: wheat;
+    text-decoration: none;
+    font-size: 1.0em;
+    font-weight: 500;
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+.navigation a:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: brown;
+    font-weight:500 ;
+    font-size:1.3em;
+}
+section{
+    padding: 40px 100px}
