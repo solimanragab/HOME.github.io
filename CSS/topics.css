@@ -13,7 +13,7 @@ div{
 
 
 body{
-    background-image: url(../IMAGE/animal.jpg);
+    background-image: url(IMAGE\animal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
