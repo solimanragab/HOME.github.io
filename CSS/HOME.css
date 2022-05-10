@@ -55,7 +55,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../image/10.jpg) no-repeat;
+     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: ;
 
